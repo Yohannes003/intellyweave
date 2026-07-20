@@ -6,7 +6,7 @@
     <img src="docs/demos/rat-lines/images/header.png" alt="IntellyWeave - OSINT Intelligence Platform" width="600">
 </p>
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Project Status](https://img.shields.io/badge/status-beta-orange)
 [![Built on Elysia](https://img.shields.io/badge/built%20on-Weaviate%20Elysia-green)](https://github.com/weaviate/elysia)
 [![GitHub stars](https://img.shields.io/github/stars/vericle/intellyweave.svg?style=social&label=Star)](https://github.com/vericle/intellyweave)
@@ -315,7 +315,7 @@ pip install -e ".[ner]"
 
 ## License
 
-BSD 3-Clause License — see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
